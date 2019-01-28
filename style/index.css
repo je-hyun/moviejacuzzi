@@ -1,0 +1,25 @@
+
+#main-title
+{
+    color:darkblue;
+    font-size:3vw;
+}
+#sub-title
+{
+    color:darkblue;
+    font-size:1.5vw;
+}
+#form-table
+{
+    margin-top:30vh;
+}
+input[type="submit"]
+{
+    font-size:100%;
+    color:darkblue;
+    float:center;
+}
+input[type="text"] {
+    padding:.5vw;
+    font-size:1.5vw;
+}
